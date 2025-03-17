@@ -16,35 +16,22 @@
 </p>
 
 ---
+DevOps isn’t just a job for me—it’s the backbone of everything I do. I’ve spent years in the trenches, making sure systems don’t just run, but run well. From automating infrastructure to streamlining deployments, my focus is on keeping things smooth so businesses can focus on growing, not fixing broken pipelines.
 
-### 👨‍💻 About Me
+What I Actually Do
+Kubernetes Without the Chaos – Optimizing workloads, fixing network issues, and making sure clusters don’t turn into a nightmare.
+CI/CD That Just Works – Automating deployments with Jenkins, GitHub Actions, and GitLab CI so updates roll out seamlessly (and roll back instantly when needed).
+Infrastructure That Grows With You – Using Terraform & Ansible to build cloud-agnostic, scalable environments that don’t fall apart under pressure.
+Fixing Problems Before They Break Things – Spotting performance issues, security gaps, and inefficiencies before they turn into real downtime.
+Security & Monitoring, the Right Way – Real-time alerting, automated security patches, and vulnerability scanning to keep things locked down.
+Automating Everything – Cutting out repetitive tasks, building self-healing systems, and making infrastructure scale when needed—no human intervention required.
+Cloud That Doesn’t Drain Your Budget – Designing cost-effective, fault-tolerant architectures on AWS, Azure, and GCP to maximize uptime and disaster recovery.
+How I Work
+I believe in automation, efficiency, and keeping things simple. I work with Agile & DevOps practices—whether it’s Kanban, Scrum, or just getting things done. Whether it’s debugging system failures, optimizing cloud deployments, or making sure developers don’t have to fight their own infrastructure, my focus is always on real results.
 
-I’m a passionate Software Engineer specializing in **scalable, efficient, and innovative software solutions**. My love for solving complex problems drives me to create tailored solutions that enhance business growth. I combine technical expertise with creative problem-solving to turn ideas into reality.
+I still write Java code sometimes, just to stay sharp—but my real passion? Building, automating, and securing scalable infrastructures that help businesses move fast without breaking things.
 
-I have hands-on experience in **full-stack web development** with the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, building dynamic, responsive, and data-driven applications.
-
-Some highlights of my expertise include:
-- **Performance optimization**
-- **API integration**
-- **Clean, maintainable code**
-
-In **Java programming**, I specialize in **JavaFX** and **Swing** for **desktop application development**. My database management skills include:
-- **SQL Server**
-- **MySQL**
-- **PostgreSQL**
-- **MongoDB**
-
-I work with **Docker** and **Kubernetes** for **DevOps**, ensuring scalable deployments, and have experience with CI/CD pipelines such as **Jenkins**, **GitLab CI**, and **Travis CI**. My cloud experience includes **AWS (EC2, S3, Lambda)** and **Microsoft Azure**.
-
-I also focus on **API development and integration**, using tools like **Postman** and **Swagger**, with a strong emphasis on **API security, documentation, and performance**.
-
-In **testing and quality assurance**, I use:
-- **Selenium** for web testing
-- **JUnit**, **Mocha**, and **Chai** for unit testing
-
-My knowledge extends to **solution architecture** tools like **Lucidchart**, **DRAW.IO**, and **ArchiMate**. For development, I am skilled with **Visual Studio Code**, **Eclipse**, and **IntelliJ IDEA**, and I use version control tools such as **Git**, **GitHub**, and **Bitbucket**.
-
-Additionally, I stay up-to-date with **machine learning and AI tools**, including **TensorFlow**, **Keras**, **Pandas**, and **Matplotlib**, allowing me to build data models for insights and automation.
+Let’s Talk: abad.naseerfast@gmail.com
 
 ---
 
