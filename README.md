@@ -309,24 +309,31 @@ const currentStatus = {
 
 </div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbadNaseer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbadNaseer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+<!-- GitHub Stats Cards - Using multiple providers for reliability -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbadNaseer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+  <!-- Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbadNaseer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <!-- Language Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbadNaseer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbadNaseer&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
+</p>
+
+<!-- Trophy Stats -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbadNaseer&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </p>
 
+<!-- Activity Graph (Expandable) -->
 <details>
 <summary><b>📈 Activity Graph</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbadNaseer&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbadNaseer&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph">
 </p>
 </details>
 
