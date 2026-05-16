@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abad Naseer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Architect;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+Reliable+Infrastructure;60%25+Cost+Reduction+Achieved;CI%2FCD+%7C+Monitoring+%7C+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Architect;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+Reliable+Infrastructure;30-60%25+Cost+Reduction+Achieved;CI%2FCD+%7C+Monitoring+%7C+Automation)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abadnaseer/">
@@ -84,7 +84,7 @@ I build, optimize, and automate cloud infrastructure for production applications
 - Real-time performance tracking
 
 ### 💰 Cost Optimization
-- **60% infrastructure cost reduction**
+- **30-60% infrastructure cost reduction**
 - Cloud resource optimization
 - Right-sizing strategies
 - FinOps best practices
@@ -108,7 +108,7 @@ I build, optimize, and automate cloud infrastructure for production applications
 </div>
 
 <details open>
-<summary><b>💸 Reduced infrastructure costs by 60%</b></summary>
+<summary><b>💸 Reduced infrastructure costs by 30-60%</b></summary>
 <br>
 Led full application migration from AWS managed services to optimized VPS hosting — achieving massive cost savings while maintaining 100% service availability
 </details>
@@ -217,7 +217,7 @@ Dev, staging, production environments with continuous delivery workflows — ena
 Led full-stack application migration from AWS to optimized VPS
 
 **Impact:**
-- 💸 60% cost reduction
+- 💸 30-60% cost reduction
 - ⏱️ Zero downtime
 - 🔒 100% availability maintained
 
